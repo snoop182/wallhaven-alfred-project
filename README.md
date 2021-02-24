@@ -1,9 +1,11 @@
 # wallhaven-alfred-project
 
 !!Disclaimer!!!
+
 - I'm not a programmer, and I'm a beginner. 
 - English is not my main language, so be patient pls or step back.
 - I created this project just for myself, and decided to share it with you If you think that my code is shit, that's true lol. Some constructive criticism welcome
+
 !!!Disclaimer!!!
 
 

@@ -105,18 +105,18 @@ To grain acces to "rating" tap "rating" in alfred or select rating in "Main Ente
 
 [[[!!!!!READ THIS BEFORE START USING!!!!]]]]
 1. Set the main Environment Variables
---> apikey
---> collectionID
---> croncollectionID
---> cronstate
---> currentdbstate, put 0
---> dbpath
---> lascronexec, put 0
---> numscreen, put 1 or 2 if you have 2 displays
---> purity, put "all"
---> resolution, put your resolution, in strict format. ex : 2560x1600
---> tmppath, put any path (you may even don't create the directory). ex : Ex : /Users/<!!!MACUSER!!!>/wallhaven
---> username, put your username that you use on Wallhaven site.
+- apikey
+- collectionID
+- croncollectionID
+- cronstate
+- currentdbstate, put 0
+- dbpath
+- lascronexec, put 0
+- numscreen, put 1 or 2 if you have 2 displays
+- purity, put "all"
+- resolution, put your resolution, in strict format. ex : 2560x1600
+- tmppath, put any path (you may even don't create the directory). ex : Ex : /Users/<!!!MACUSER!!!>/wallhaven
+- username, put your username that you use on Wallhaven site.
 
 2. Tap "wal" in Alfred and select first install
 3. chose collection

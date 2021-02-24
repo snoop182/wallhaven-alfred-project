@@ -9,7 +9,7 @@
 !!!Disclaimer!!!
 
 
-Primary language - php 
+Primary language - php
 Alfred use Wallhaven API v1
 
 Main features :

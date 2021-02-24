@@ -9,8 +9,8 @@
 !!!Disclaimer!!!
 
 
-Primary language - php
-Alfred use Wallhaven API v1
+- Primary language - php
+- Alfred use Wallhaven API v1
 
 Main features :
 - MacOS Wallpaper change by hotkey/item in list filter or cron (with chosen interval)
@@ -21,7 +21,7 @@ Main features :
 
 Requirements :
 
--MacOS and Alfred 4 with power pack
+- MacOS and Alfred 4 with power pack
 - « Displays have separate Spaces » checked, see https://i.imgur.com/5EVjDWA.png
 - Account on Wallhaven https://wallhaven.cc/
 - Wallhaven collections with wallpapers

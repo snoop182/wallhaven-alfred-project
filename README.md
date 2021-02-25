@@ -60,11 +60,12 @@ Other Features :
 
 
 Default data structure and variables :
+
 --> tmppath
 
 Directory where Alfred will store all images & local.db & script for cronjob
 Ex : /Users/<!!!MACUSER!!!>/wallhaven
-Where <!!!MACUSER!!!!> is you account name for Macv
+Where <!!!MACUSER!!!!> is you account name for macOS
 
 --> apikey
 Users are able to grant API access to some of their settings via an API key provided via their account settings here https://wallhaven.cc/settings/account
@@ -122,11 +123,13 @@ To grain acces to "rating" tap "rating" in alfred or select rating in "Main Ente
 2. Tap "wal" in Alfred and select first install
 3. chose collection
 4. wait
+
 -------------------> Enjoy
 
 Cron first run
 1. Tap « cr » in Alfred
 2. Run « First cron install »
+
 -------------------> Enjoy
 
 P.S. Don't tuch bandleID pls

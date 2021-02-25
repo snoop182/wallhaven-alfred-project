@@ -67,7 +67,7 @@ Ex : /Users/<!!!MACUSER!!!>/wallhaven
 Where <!!!MACUSER!!!!> is you account name for Macv
 
 --> apikey
-Users are able to grant API access to some of their settings via an API key provided via their account settings.
+Users are able to grant API access to some of their settings via an API key provided via their account settings here https://wallhaven.cc/settings/account
 
 --> collectionID
 ID of default collection, can be found at the end of the url of the collection page ex : https://prnt.sc/u8j7bo

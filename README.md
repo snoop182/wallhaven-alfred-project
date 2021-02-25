@@ -113,7 +113,7 @@ To grain acces to "rating" tap "rating" in alfred or select rating in "Main Ente
 - cronstate
 - currentdbstate, put 0
 - dbpath
-- lascronexec, put 0
+- lastcronexec, put 0
 - numscreen, put 1 or 2 if you have 2 displays
 - purity, put "all"
 - resolution, put your resolution, in strict format. ex : 2560x1600

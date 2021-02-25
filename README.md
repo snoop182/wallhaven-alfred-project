@@ -61,6 +61,7 @@ Other Features :
 
 Default data structure and variables :
 --> tmppath
+
 Directory where Alfred will store all images & local.db & script for cronjob
 Ex : /Users/<!!!MACUSER!!!>/wallhaven
 Where <!!!MACUSER!!!!> is you account name for Macv
@@ -124,8 +125,8 @@ To grain acces to "rating" tap "rating" in alfred or select rating in "Main Ente
 -------------------> Enjoy
 
 Cron first run
-1. Top « cr » in Alfred
-2. Rue « First cron install »
+1. Tap « cr » in Alfred
+2. Run « First cron install »
 -------------------> Enjoy
 
 P.S. Don't tuch bandleID pls
